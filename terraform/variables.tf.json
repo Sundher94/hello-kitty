@@ -1,0 +1,15 @@
+{
+  "variable": {
+    "environment_variables": [
+      {
+        "default": {
+          "IMAGES_BUCKET": "sangaanram_3"
+        },
+        "description": "A map that defines environment variables for the Lambda Function.",
+        "type": "map(string)",
+        "nullable": true,
+        "sensitive": false
+      }
+    ]
+  }
+}
